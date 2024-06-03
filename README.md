@@ -82,7 +82,7 @@ This repository contains the source code for a web-based voting system implement
          <li><a href="https://github.com/VenkatreddyPadala">Venkat Reddy Padala</a></li>
          <li><a href="https://github.com/pranayreddyambati">Pranay Reddy Ambati</a></li>
          <li><a href="https://github.com/ordr-github">Deepak Reddy Obulareddy</a></li>
-         <li>Sravanthi Vani</li>
+         <li><a href="https://github.com/Sravanthikurumoju">Sravanthi Vani Kurumoju</a></li>
       </ul>
 
 
